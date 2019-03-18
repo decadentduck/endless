@@ -1,0 +1,1350 @@
+﻿Log file open, 03/02/19 10:15:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GeofsLab
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.398033
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.427s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Programs/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UnrealProjects/GeofsLab/Saved/Config/Windows/Engine.ini]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UnrealProjects/GeofsLab/Saved/Config/Windows/Engine.ini]
+[2019.03.02-15.15.57:775][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UnrealProjects/GeofsLab/Saved/Config/Windows/Engine.ini]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UnrealProjects/GeofsLab/Saved/Config/Windows/Engine.ini]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.02-15.15.57:775][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UnrealProjects/GeofsLab/Saved/Config/Windows/Engine.ini]
+[2019.03.02-15.15.57:775][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UnrealProjects/GeofsLab/Saved/Config/Windows/Engine.ini]
+[2019.03.02-15.15.57:777][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProjects/GeofsLab/Saved/Config/Windows/Scalability.ini]
+[2019.03.02-15.15.57:777][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProjects/GeofsLab/Saved/Config/Windows/Scalability.ini]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProjects/GeofsLab/Saved/Config/Windows/Scalability.ini]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProjects/GeofsLab/Saved/Config/Windows/Scalability.ini]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProjects/GeofsLab/Saved/Config/Windows/Scalability.ini]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProjects/GeofsLab/Saved/Config/Windows/Scalability.ini]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProjects/GeofsLab/Saved/Config/Windows/Scalability.ini]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.02-15.15.57:778][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.02-15.15.57:778][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.02-15.15.57:778][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.02-15.15.57:799][  0]LogHAL: Display: Platform has ~ 16 GB [17015091200 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.02-15.15.57:799][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.02-15.15.57:799][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProjects/GeofsLab/Saved/Config/Windows/Scalability.ini]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProjects/GeofsLab/Saved/Config/Windows/Scalability.ini]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProjects/GeofsLab/Saved/Config/Windows/Scalability.ini]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProjects/GeofsLab/Saved/Config/Windows/Scalability.ini]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.02-15.15.57:799][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProjects/GeofsLab/Saved/Config/Windows/Scalability.ini]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProjects/GeofsLab/Saved/Config/Windows/Scalability.ini]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProjects/GeofsLab/Saved/Config/Windows/Scalability.ini]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.02-15.15.57:800][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.02-15.15.57:800][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UnrealProjects/GeofsLab/Saved/Config/Windows/Engine.ini]
+[2019.03.02-15.15.57:800][  0]LogInit: Computer: MIATHYRA
+[2019.03.02-15.15.57:800][  0]LogInit: User: kaitl
+[2019.03.02-15.15.57:800][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.03.02-15.15.57:800][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.03.02-15.15.57:800][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.03.02-15.15.57:800][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.02-15.15.57:800][  0]LogMemory: Process Physical Memory: 103.59 MB used, 103.59 MB peak
+[2019.03.02-15.15.57:800][  0]LogMemory: Process Virtual Memory: 86.22 MB used, 86.22 MB peak
+[2019.03.02-15.15.57:800][  0]LogMemory: Physical Memory: 7873.24 MB used,  8353.61 MB free, 16226.86 MB total
+[2019.03.02-15.15.57:800][  0]LogMemory: Virtual Memory: 4647.94 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.03.02-15.15.58:068][  0]LogInit: Using OS detected language (en-US).
+[2019.03.02-15.15.58:068][  0]LogInit: Using OS detected locale (en-CA).
+[2019.03.02-15.15.58:069][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.02-15.15.58:368][  0]LogStreaming: Display: Took  0.300s to InitEngineTextLocalization.
+[2019.03.02-15.15.58:368][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.02-15.15.58:401][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.02-15.15.58:401][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.02-15.15.58:599][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.02-15.15.58:599][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.02-15.15.58:659][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.03.02-15.15.58:659][  0]LogD3D11RHI:       6052/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.02-15.15.58:670][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.03.02-15.15.58:670][  0]LogD3D11RHI:       128/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.03.02-15.15.58:672][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.02-15.15.58:672][  0]LogD3D11RHI:       0/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.02-15.15.58:672][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.02-15.15.58:697][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.02-15.15.58:697][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.02-15.15.58:697][  0]LogWindows: EnumDisplayDevices:
+[2019.03.02-15.15.58:698][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.03.02-15.15.58:698][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.03.02-15.15.58:698][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.03.02-15.15.58:699][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.03.02-15.15.58:699][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.03.02-15.15.58:699][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.03.02-15.15.58:700][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.03.02-15.15.58:700][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.03.02-15.15.58:700][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.03.02-15.15.58:700][  0]LogD3D11RHI:   Driver Version: 399.01 (internal:24.21.13.9901, unified:399.01)
+[2019.03.02-15.15.58:700][  0]LogD3D11RHI:      Driver Date: 8-13-2018
+[2019.03.02-15.15.58:700][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.03.02-15.15.58:731][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.02-15.15.58:747][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.03.02-15.15.59:054][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.02-15.15.59:064][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.02-15.15.59:075][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.02-15.15.59:085][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.02-15.15.59:096][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.02-15.15.59:106][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.02-15.15.59:117][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.02-15.15.59:127][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.02-15.15.59:132][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.02-15.15.59:189][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.02-15.15.59:189][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.02-15.15.59:189][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.02-15.15.59:189][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.02-15.15.59:189][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.02-15.15.59:189][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.02-15.15.59:189][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.02-15.15.59:189][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.02-15.15.59:189][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.02-15.15.59:189][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.02-15.15.59:189][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.02-15.15.59:189][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.02-15.15.59:189][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.02-15.15.59:189][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.02-15.15.59:189][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.02-15.15.59:189][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.02-15.15.59:189][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.02-15.15.59:189][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.02-15.15.59:190][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.02-15.15.59:245][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.02-15.15.59:245][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.02-15.15.59:263][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.02-15.15.59:263][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.02-15.15.59:272][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.02-15.15.59:282][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.02-15.15.59:292][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.02-15.15.59:302][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.02-15.15.59:336][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.02-15.15.59:336][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.02-15.15.59:336][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.02-15.15.59:385][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (../../../../../UnrealProjects/GeofsLab/Intermediate/Shaders/WorkingDirectory/2520/).
+[2019.03.02-15.15.59:385][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kaitl/AppData/Local/Temp/UnrealShaderWorkingDir/5F468ED54B6FF2ED3C2DC89EE80D557E/'.
+[2019.03.02-15.15.59:387][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.02-15.15.59:387][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.02-15.15.59:387][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.02-15.15.59:831][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.02-15.15.59:873][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/kaitl/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.02-15.15.59:873][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kaitl/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.02-15.15.59:873][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UnrealProjects/GeofsLab/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.02-15.15.59:873][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.02-15.15.59:873][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UnrealProjects/GeofsLab/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.02-15.15.59:873][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.02-15.15.59:884][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.02-15.15.59:884][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.02-15.15.59:884][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.03.02-15.15.59:896][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kaitl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.02-15.15.59:896][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.02-15.15.59:896][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.02-15.15.59:915][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.02-15.15.59:916][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.02-15.15.59:916][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.02-15.15.59:999][  0]LogAssetRegistry: FAssetRegistry took 0.0309 seconds to start up
+[2019.03.02-15.16.00:238][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.02-15.16.00:369][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.02-15.16.00:372][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.02-15.16.00:372][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.02-15.16.00:372][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.02-15.16.00:372][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.02-15.16.00:384][  0]LogNetVersion: GeofsLab 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2234718586)
+[2019.03.02-15.16.00:872][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.099193 seconds
+[2019.03.02-15.16.00:879][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.03.02-15.16.00:879][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.03.02-15.16.00:879][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.02-15.16.01:667][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.02-15.16.01:680][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.02-15.16.02:353][  0]SourceControl: Source control is disabled
+[2019.03.02-15.16.02:353][  0]SourceControl: Source control is disabled
+[2019.03.02-15.16.02:354][  0]SourceControl: Source control is disabled
+[2019.03.02-15.16.02:355][  0]SourceControl: Source control is disabled
+[2019.03.02-15.16.02:495][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.02-15.16.02:799][  0]LogOcInput: OculusInput pre-init called
+[2019.03.02-15.16.02:924][  0]LogEngine: Initializing Engine...
+[2019.03.02-15.16.02:924][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.02-15.16.02:925][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.02-15.16.02:925][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.02-15.16.02:925][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.02-15.16.02:925][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.02-15.16.03:116][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.02-15.16.03:127][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.02-15.16.03:137][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.02-15.16.03:288][  0]LogInit: FAudioDevice initialized.
+[2019.03.02-15.16.03:288][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.02-15.16.03:445][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/kaitl/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.02-15.16.03:451][  0]LogInit: Texture streaming: Enabled
+[2019.03.02-15.16.03:468][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.02-15.16.03:505][  0]LogInit: Transaction tracking system initialized
+[2019.03.02-15.16.03:526][  0]BlueprintLog: New page: Editor Load
+[2019.03.02-15.16.03:593][  0]LocalizationService: Localization service is disabled
+[2019.03.02-15.16.04:020][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/GeofsLab/Content/' took 0.02s
+[2019.03.02-15.16.04:020][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.02-15.16.04:020][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.02-15.16.04:020][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.02-15.16.04:020][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.02-15.16.04:020][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.02-15.16.04:020][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.02-15.16.04:020][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.02-15.16.04:129][  0]SourceControl: Source control is disabled
+[2019.03.02-15.16.04:129][  0]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/GeofsLab/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.02-15.16.04:129][  0]LightingResults: New page: Lighting Build
+[2019.03.02-15.16.04:132][  0]MapCheck: New page: Map Check
+[2019.03.02-15.16.04:132][  0]LightingResults: New page: Lighting Build
+[2019.03.02-15.16.06:354][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.02-15.16.06:455][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.02-15.16.06:476][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.02-15.16.06:476][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2019.03.02-15.16.06:477][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.348
+[2019.03.02-15.16.06:808][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-15.16.06:815][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-15.16.06:821][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-15.16.06:826][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-15.16.06:871][  0]LogCollectionManager: Loaded 0 collections in 0.001820 seconds
+[2019.03.02-15.16.06:931][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/GeofsLab/Saved/Collections/' took 0.01s
+[2019.03.02-15.16.06:931][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/GeofsLab/Content/Developers/kaitl/Collections/' took 0.00s
+[2019.03.02-15.16.06:931][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/GeofsLab/Content/Collections/' took 0.00s
+[2019.03.02-15.16.06:931][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.02-15.16.06:941][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2651 classes and 620 folders.
+[2019.03.02-15.16.06:998][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.02-15.16.07:023][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:044][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:046][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:047][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:049][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:051][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:052][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:054][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:055][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:056][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:057][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:058][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:060][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:061][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:062][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:063][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:064][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:065][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:066][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:067][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:068][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:069][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:070][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:072][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:073][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:074][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.02-15.16.07:480][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.02-15.16.07:527][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.03.02-15.16.08:183][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.02-15.16.08:184][  0]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.02-15.16.08:209][  0]LogSlate: Took 0.006927 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.02-15.16.08:444][  0]LogRenderer: Reallocating scene render targets to support 964x440 Format 10 NumSamples 1 (Frame:1).
+[2019.03.02-15.16.08:721][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.02-15.16.08:721][  0]LogLoad: (Engine Initialization) Total time: 13.97 seconds
+[2019.03.02-15.16.08:721][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.02-15.16.08:817][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.02-15.16.08:859][  1]LogAssetRegistry: Asset discovery search completed in 8.8828 seconds
+[2019.03.02-15.16.08:860][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.02-15.16.08:860][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2019.03.02-15.16.09:790][ 53]LogSlate: Took 0.030801 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.02-15.16.12:846][234]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.02-15.19.25:849][758]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.02-15.19.28:121][889]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.02-15.19.30:265][ 13]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/GeofsLab/Content/EndlessRunner.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.02-15.19.30:289][ 13]LightingResults: New page: Lighting Build
+[2019.03.02-15.19.30:290][ 13]LoadErrors: New page: Loading map: EndlessRunner.umap
+[2019.03.02-15.19.30:294][ 13]MapCheck: New page: Map Check
+[2019.03.02-15.19.30:295][ 13]LightingResults: New page: Lighting Build
+[2019.03.02-15.19.30:585][ 13]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.02-15.19.30:678][ 13]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.02-15.19.30:721][ 13]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.02-15.19.30:722][ 13]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.069ms to complete.
+[2019.03.02-15.19.30:722][ 13]LogFileHelpers: Loading map 'EndlessRunner' took 0.457
+[2019.03.02-15.19.30:732][ 13]LogSlate: Window 'Open Level' being destroyed
+[2019.03.02-15.23.52:804][716]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.02-15.23.52:917][716]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.02-15.24.55:971][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-15.24.59:688][803]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.03.02-15.25.22:490][401]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/BP_Blocker.BP_Blocker
+[2019.03.02-15.25.23:598][401]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.03.02-15.25.24:817][402]LogRenderer: Reallocating scene render targets to support 964x504 Format 10 NumSamples 1 (Frame:1).
+[2019.03.02-15.26.01:702][586]LogSlate: Took 0.283243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.02-15.26.55:272][434]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.02-15.27.33:899][971]BlueprintLog: New page: Compile BP_Blocker
+[2019.03.02-15.27.34:968][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Blocker" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Blocker.uasset" SILENT=true
+[2019.03.02-15.27.35:013][  1]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_Blocker983D0512482A9DA67B1050BD583CCA03.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Blocker.uasset'
+[2019.03.02-15.27.38:979][237]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/BP_Floortile.BP_Floortile
+[2019.03.02-15.27.39:267][237]LogSlate: Took 0.014443 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.02-15.29.08:650][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-15.29.31:267][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-15.29.33:918][397]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.02-15.29.53:067][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-15.30.31:754][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-15.30.34:959][955]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/EndlessRunner' took 0.030
+[2019.03.02-15.30.35:249][955]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/BP_Floortile] ([1] browsable assets)...
+[2019.03.02-15.30.35:271][955]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/BP_Floortile.BP_Floortile]
+[2019.03.02-15.30.35:271][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BP_Floortile]
+[2019.03.02-15.30.35:271][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Floortile" FILE="../../../../../UnrealProjects/GeofsLab/Saved/Autosaves/Game/BluePrints/BP_Floortile_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.03.02-15.30.35:377][955]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_Floortile_Auto15B7715864FDB769A5DF9829C9AE26ABE.tmp' to '../../../../../UnrealProjects/GeofsLab/Saved/Autosaves/Game/BluePrints/BP_Floortile_Auto1.uasset'
+[2019.03.02-15.30.35:379][955]LogFileHelpers: Auto-saving content packages took 0.419
+[2019.03.02-15.30.47:737][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-15.30.55:188][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-15.31.02:296][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-15.31.07:098][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-15.31.10:555][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-15.31.14:726][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-15.31.14:775][899]BlueprintLog: New page: Compile BP_Floortile
+[2019.03.02-15.31.15:521][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Floortile" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset" SILENT=true
+[2019.03.02-15.31.15:543][933]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_Floortile1FC181DA44EE79FDB31622A894D964E6.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset'
+[2019.03.02-15.37.59:257][ 47]BlueprintLog: New page: Compile BP_Floortile
+[2019.03.02-15.37.59:878][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Floortile" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset" SILENT=true
+[2019.03.02-15.37.59:906][ 73]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_Floortile20733A024F4765962D0D348C61D8653B.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset'
+[2019.03.02-15.40.40:658][107]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/EndlessRunner' took 0.025
+[2019.03.02-15.40.40:659][107]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/BP_Floortile] ([1] browsable assets)...
+[2019.03.02-15.40.40:689][107]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/BP_Floortile.BP_Floortile]
+[2019.03.02-15.40.40:689][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BP_Floortile]
+[2019.03.02-15.40.40:689][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Floortile" FILE="../../../../../UnrealProjects/GeofsLab/Saved/Autosaves/Game/BluePrints/BP_Floortile_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.03.02-15.40.40:716][107]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_Floortile_Auto24CB1FFA54E99A20570A0D1A9811424CA.tmp' to '../../../../../UnrealProjects/GeofsLab/Saved/Autosaves/Game/BluePrints/BP_Floortile_Auto2.uasset'
+[2019.03.02-15.40.40:717][107]LogFileHelpers: Auto-saving content packages took 0.058
+[2019.03.02-15.42.05:398][279]BlueprintLog: New page: Compile BP_Floortile
+[2019.03.02-15.42.05:950][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Floortile" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset" SILENT=true
+[2019.03.02-15.42.06:262][301]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_Floortile0611EDFA4C2301ED52C02582EEB4432E.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset'
+[2019.03.02-15.42.17:701][978]BlueprintLog: New page: Compile BP_Floortile
+[2019.03.02-15.42.18:300][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Floortile" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset" SILENT=true
+[2019.03.02-15.42.18:327][  3]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_Floortile46EF18F44019A237578320BAFC79C537.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset'
+[2019.03.02-15.42.30:624][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-15.43.23:150][225]BlueprintLog: New page: Compile BP_Floortile
+[2019.03.02-15.43.24:100][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Floortile" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset" SILENT=true
+[2019.03.02-15.43.24:131][271]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_FloortileC265877D417352F77C9174BA121871E8.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset'
+[2019.03.02-15.44.44:703][478]BlueprintLog: New page: Compile BP_Floortile
+[2019.03.02-15.44.45:536][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Floortile" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset" SILENT=true
+[2019.03.02-15.44.45:566][517]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_Floortile482A32C6420270F7C76E0194102D11A6.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset'
+[2019.03.02-15.45.04:189][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-15.45.37:428][333]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.02-15.45.40:743][529]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.02-15.45.41:034][529]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-15.45.41:034][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.02-15.45.41:045][529]PIE: New page: PIE session: EndlessRunner (Mar 2, 2019, 5:45:41 AM)
+[2019.03.02-15.45.41:066][529]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EndlessRunner
+[2019.03.02-15.45.41:069][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002464s)
+[2019.03.02-15.45.41:069][529]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.02-15.45.41:069][529]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2019.03.02-15.45.41:069][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunner.EndlessRunner to /Game/UEDPIE_0_EndlessRunner.EndlessRunner (0.003231s)
+[2019.03.02-15.45.41:114][529]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.02-15.45.41:183][529]LogInit: FAudioDevice initialized.
+[2019.03.02-15.45.41:243][529]LogLoad: Game class is 'RunGameMode_C'
+[2019.03.02-15.45.41:244][529]LogWorld: Bringing World /Game/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 60) at 2019.03.02-10.45.41
+[2019.03.02-15.45.41:244][529]LogWorld: Bringing up level for play took: 0.000429
+[2019.03.02-15.45.41:297][529]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.03.02-15.45.41:304][529]PIE: Play in editor start time for /Game/UEDPIE_0_EndlessRunner 0.445
+[2019.03.02-15.45.41:304][529]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-15.45.54:733][326]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-15.45.54:733][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-15.45.54:771][326]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.02-15.45.54:771][326]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-15.45.54:801][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-15.45.54:839][328]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.03.02-15.46.45:577][548]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.02-15.46.55:832][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-15.46.58:050][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Floortile" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset" SILENT=true
+[2019.03.02-15.46.58:075][271]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_FloortileB509C89A4E24534E99F6D69E0953E904.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset'
+[2019.03.02-15.47.09:213][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-15.47.22:964][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-15.47.26:233][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Blocker" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Blocker.uasset" SILENT=true
+[2019.03.02-15.47.26:239][959]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_BlockerC01CDFE745BD40DCED1097863D697094.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Blocker.uasset'
+[2019.03.02-15.48.52:374][782]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.02-15.48.52:386][782]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-15.48.52:386][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.02-15.48.52:387][782]PIE: New page: PIE session: EndlessRunner (Mar 2, 2019, 5:48:52 AM)
+[2019.03.02-15.48.52:387][782]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EndlessRunner
+[2019.03.02-15.48.52:389][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001860s)
+[2019.03.02-15.48.52:389][782]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.02-15.48.52:389][782]LogPlayLevel: PIE: World Init took: (0.000517s)
+[2019.03.02-15.48.52:389][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunner.EndlessRunner to /Game/UEDPIE_0_EndlessRunner.EndlessRunner (0.002480s)
+[2019.03.02-15.48.52:420][782]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.02-15.48.52:489][782]LogInit: FAudioDevice initialized.
+[2019.03.02-15.48.52:523][782]LogLoad: Game class is 'RunGameMode_C'
+[2019.03.02-15.48.52:524][782]LogWorld: Bringing World /Game/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 60) at 2019.03.02-10.48.52
+[2019.03.02-15.48.52:524][782]LogWorld: Bringing up level for play took: 0.000784
+[2019.03.02-15.48.52:543][782]PIE: Play in editor start time for /Game/UEDPIE_0_EndlessRunner -0.316
+[2019.03.02-15.48.52:543][782]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-15.48.54:600][905]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-15.48.54:600][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-15.48.54:632][905]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.02-15.48.54:632][905]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-15.48.54:659][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-15.48.54:703][908]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.03.02-15.48.56:255][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Floortile" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset" SILENT=true
+[2019.03.02-15.48.56:280][  0]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_Floortile5CF74123407A41992702B0B45B65E950.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset'
+[2019.03.02-15.49.06:180][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-15.50.35:140][997]BlueprintLog: New page: Compile BP_Floortile
+[2019.03.02-15.50.35:876][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Floortile" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset" SILENT=true
+[2019.03.02-15.50.35:905][ 30]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_Floortile67FE12FE41EFA27B64D36DA71E092B6F.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset'
+[2019.03.02-15.50.45:079][580]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/RunCharacter.RunCharacter
+[2019.03.02-15.51.21:094][543]BlueprintLog: New page: Compile RunCharacter
+[2019.03.02-15.51.21:831][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunCharacter" FILE="../../../../../UnrealProjects/GeofsLab/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset" SILENT=true
+[2019.03.02-15.51.21:904][574]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/RunCharacter423A1D5245F9F19DD7F37E96E76C894C.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2019.03.02-15.51.24:155][709]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.02-15.51.24:168][709]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-15.51.24:168][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.02-15.51.24:168][709]PIE: New page: PIE session: EndlessRunner (Mar 2, 2019, 5:51:24 AM)
+[2019.03.02-15.51.24:168][709]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EndlessRunner
+[2019.03.02-15.51.24:170][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001845s)
+[2019.03.02-15.51.24:170][709]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.02-15.51.24:170][709]LogPlayLevel: PIE: World Init took: (0.000457s)
+[2019.03.02-15.51.24:170][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunner.EndlessRunner to /Game/UEDPIE_0_EndlessRunner.EndlessRunner (0.002403s)
+[2019.03.02-15.51.24:203][709]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.02-15.51.24:272][709]LogInit: FAudioDevice initialized.
+[2019.03.02-15.51.24:305][709]LogLoad: Game class is 'RunGameMode_C'
+[2019.03.02-15.51.24:306][709]LogWorld: Bringing World /Game/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 60) at 2019.03.02-10.51.24
+[2019.03.02-15.51.24:306][709]LogWorld: Bringing up level for play took: 0.000360
+[2019.03.02-15.51.24:325][709]PIE: Play in editor start time for /Game/UEDPIE_0_EndlessRunner -0.534
+[2019.03.02-15.51.24:325][709]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-15.51.43:412][854]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-15.51.43:412][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-15.51.43:447][854]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.02-15.51.43:447][854]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-15.51.43:480][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-15.51.43:517][856]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.03.02-15.52.14:414][215]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/EndlessRunner' took 0.027
+[2019.03.02-15.52.31:946][268]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.02-15.52.37:555][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-15.52.37:727][599]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/StarterContent/Props/SM_Rock.SM_Rock
+[2019.03.02-15.52.38:664][600]LogRenderer: Reallocating scene render targets to support 980x660 Format 10 NumSamples 1 (Frame:1).
+[2019.03.02-15.54.22:384][181]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.02-15.54.23:989][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_Rock" FILE="../../../../../UnrealProjects/GeofsLab/Content/StarterContent/Props/SM_Rock.uasset" SILENT=true
+[2019.03.02-15.54.24:001][265]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/SM_Rock9A9DAC5E405A5D3D4EAD7888573854BE.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/StarterContent/Props/SM_Rock.uasset'
+[2019.03.02-15.55.20:740][150]BlueprintLog: New page: Compile RunCharacter
+[2019.03.02-15.55.21:547][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunCharacter" FILE="../../../../../UnrealProjects/GeofsLab/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset" SILENT=true
+[2019.03.02-15.55.21:581][185]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/RunCharacter9D279942490FBBC13E7DF2B8BD16AAFE.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2019.03.02-15.57.07:522][482]BlueprintLog: New page: Compile RunCharacter
+[2019.03.02-15.57.08:252][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunCharacter" FILE="../../../../../UnrealProjects/GeofsLab/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset" SILENT=true
+[2019.03.02-15.57.08:284][512]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/RunCharacter6426EE824242EA4B442619A009DE503E.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2019.03.02-15.58.24:360][628]BlueprintLog: New page: Compile RunCharacter
+[2019.03.02-15.58.24:992][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunCharacter" FILE="../../../../../UnrealProjects/GeofsLab/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset" SILENT=true
+[2019.03.02-15.58.25:026][652]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/RunCharacter9D6646E44B08209931F53A8BFDF77699.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2019.03.02-15.58.42:736][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunCharacter" FILE="../../../../../UnrealProjects/GeofsLab/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset" SILENT=true
+[2019.03.02-15.58.42:763][815]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/RunCharacter4340867743D5F0B4D168119291E0B011.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2019.03.02-15.59.01:965][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.00.38:671][925]BlueprintLog: New page: Compile BP_Blocker
+[2019.03.02-16.00.39:387][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Blocker" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Blocker.uasset" SILENT=true
+[2019.03.02-16.00.39:404][958]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_BlockerE53A3A6B4EEF195C77AF0CA9C30F633E.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Blocker.uasset'
+[2019.03.02-16.02.33:732][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunCharacter" FILE="../../../../../UnrealProjects/GeofsLab/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset" SILENT=true
+[2019.03.02-16.02.34:048][495]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/RunCharacterE54C556940CD1E8B7C78F9A18ABBB468.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2019.03.02-16.02.35:365][574]BlueprintLog: New page: Compile RunCharacter
+[2019.03.02-16.02.36:124][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunCharacter" FILE="../../../../../UnrealProjects/GeofsLab/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset" SILENT=true
+[2019.03.02-16.02.36:159][605]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/RunCharacter890191564B83E9F07E995F86A89F02D1.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2019.03.02-16.06.04:833][961]BlueprintLog: New page: Compile RunCharacter
+[2019.03.02-16.06.05:650][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunCharacter" FILE="../../../../../UnrealProjects/GeofsLab/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset" SILENT=true
+[2019.03.02-16.06.05:686][995]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/RunCharacter30FB78A44A53F0AB870CEAA9D4521412.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2019.03.02-16.06.52:567][269]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.02-16.07.03:548][906]BlueprintLog: New page: Compile BP_Floortile
+[2019.03.02-16.07.06:296][ 61]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.02-16.07.06:310][ 61]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.07.06:310][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.02-16.07.06:310][ 61]PIE: New page: PIE session: EndlessRunner (Mar 2, 2019, 6:07:06 AM)
+[2019.03.02-16.07.06:311][ 61]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EndlessRunner
+[2019.03.02-16.07.06:312][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001833s)
+[2019.03.02-16.07.06:313][ 61]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.02-16.07.06:313][ 61]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2019.03.02-16.07.06:313][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunner.EndlessRunner to /Game/UEDPIE_0_EndlessRunner.EndlessRunner (0.002453s)
+[2019.03.02-16.07.06:347][ 61]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.02-16.07.06:416][ 61]LogInit: FAudioDevice initialized.
+[2019.03.02-16.07.06:447][ 61]LogLoad: Game class is 'RunGameMode_C'
+[2019.03.02-16.07.06:448][ 61]LogWorld: Bringing World /Game/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 60) at 2019.03.02-11.07.06
+[2019.03.02-16.07.06:448][ 61]LogWorld: Bringing up level for play took: 0.000373
+[2019.03.02-16.07.06:468][ 61]PIE: Play in editor start time for /Game/UEDPIE_0_EndlessRunner -0.39
+[2019.03.02-16.07.06:468][ 61]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.07.08:746][192]Cmd: RestartLevel
+[2019.03.02-16.07.08:809][193]LogNet: Browse: /Game/EndlessRunner?restart
+[2019.03.02-16.07.08:814][193]LogLoad: LoadMap: /Game/EndlessRunner
+[2019.03.02-16.07.08:846][193]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EndlessRunner
+[2019.03.02-16.07.08:848][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001656s)
+[2019.03.02-16.07.08:848][193]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.02-16.07.08:849][193]LogPlayLevel: PIE: World Init took: (0.000435s)
+[2019.03.02-16.07.08:849][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunner.EndlessRunner to /Game/UEDPIE_0_EndlessRunner.EndlessRunner (0.002216s)
+[2019.03.02-16.07.08:849][193]LogLoad: Game class is 'RunGameMode_C'
+[2019.03.02-16.07.08:850][193]LogWorld: Bringing World /Game/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 60) at 2019.03.02-11.07.08
+[2019.03.02-16.07.08:850][193]LogWorld: Bringing up level for play took: 0.000345
+[2019.03.02-16.07.08:858][193]LogLoad: Took 0.044073 seconds to LoadMap(/Game/UEDPIE_0_EndlessRunner)
+[2019.03.02-16.07.10:355][283]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.07.10:356][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-16.07.10:388][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.02-16.07.10:388][283]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.07.10:421][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-16.07.10:462][286]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.03.02-16.07.19:679][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.07.19:745][843]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.02-16.07.19:759][843]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.07.19:759][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.02-16.07.19:759][843]PIE: New page: PIE session: EndlessRunner (Mar 2, 2019, 6:07:19 AM)
+[2019.03.02-16.07.19:759][843]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EndlessRunner
+[2019.03.02-16.07.19:761][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001672s)
+[2019.03.02-16.07.19:761][843]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.02-16.07.19:761][843]LogPlayLevel: PIE: World Init took: (0.000441s)
+[2019.03.02-16.07.19:761][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunner.EndlessRunner to /Game/UEDPIE_0_EndlessRunner.EndlessRunner (0.002204s)
+[2019.03.02-16.07.19:796][843]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.02-16.07.19:859][843]LogInit: FAudioDevice initialized.
+[2019.03.02-16.07.19:891][843]LogLoad: Game class is 'RunGameMode_C'
+[2019.03.02-16.07.19:892][843]LogWorld: Bringing World /Game/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 60) at 2019.03.02-11.07.19
+[2019.03.02-16.07.19:892][843]LogWorld: Bringing up level for play took: 0.000369
+[2019.03.02-16.07.19:912][843]PIE: Play in editor start time for /Game/UEDPIE_0_EndlessRunner 1.053
+[2019.03.02-16.07.19:912][843]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.07.22:198][980]Cmd: RestartLevel
+[2019.03.02-16.07.22:215][981]LogNet: Browse: /Game/EndlessRunner?restart
+[2019.03.02-16.07.22:215][981]LogLoad: LoadMap: /Game/EndlessRunner
+[2019.03.02-16.07.22:246][981]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EndlessRunner
+[2019.03.02-16.07.22:247][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001654s)
+[2019.03.02-16.07.22:248][981]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.02-16.07.22:248][981]LogPlayLevel: PIE: World Init took: (0.000435s)
+[2019.03.02-16.07.22:248][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunner.EndlessRunner to /Game/UEDPIE_0_EndlessRunner.EndlessRunner (0.002218s)
+[2019.03.02-16.07.22:248][981]LogLoad: Game class is 'RunGameMode_C'
+[2019.03.02-16.07.22:249][981]LogWorld: Bringing World /Game/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 60) at 2019.03.02-11.07.22
+[2019.03.02-16.07.22:249][981]LogWorld: Bringing up level for play took: 0.000339
+[2019.03.02-16.07.22:257][981]LogLoad: Took 0.041988 seconds to LoadMap(/Game/UEDPIE_0_EndlessRunner)
+[2019.03.02-16.07.22:418][991]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.07.22:418][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-16.07.22:452][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.02-16.07.22:452][991]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.07.22:486][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-16.07.22:527][994]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.03.02-16.07.22:777][  9]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.02-16.07.23:560][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.07.23:627][ 59]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.02-16.07.23:641][ 59]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.07.23:641][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.02-16.07.23:641][ 59]PIE: New page: PIE session: EndlessRunner (Mar 2, 2019, 6:07:23 AM)
+[2019.03.02-16.07.23:641][ 59]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EndlessRunner
+[2019.03.02-16.07.23:643][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001664s)
+[2019.03.02-16.07.23:643][ 59]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.02-16.07.23:643][ 59]LogPlayLevel: PIE: World Init took: (0.000438s)
+[2019.03.02-16.07.23:643][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunner.EndlessRunner to /Game/UEDPIE_0_EndlessRunner.EndlessRunner (0.002195s)
+[2019.03.02-16.07.23:678][ 59]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.02-16.07.23:739][ 59]LogInit: FAudioDevice initialized.
+[2019.03.02-16.07.23:768][ 59]LogLoad: Game class is 'RunGameMode_C'
+[2019.03.02-16.07.23:768][ 59]LogWorld: Bringing World /Game/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 60) at 2019.03.02-11.07.23
+[2019.03.02-16.07.23:768][ 59]LogWorld: Bringing up level for play took: 0.000366
+[2019.03.02-16.07.23:788][ 59]PIE: Play in editor start time for /Game/UEDPIE_0_EndlessRunner 0.93
+[2019.03.02-16.07.23:788][ 59]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.07.26:208][204]Cmd: RestartLevel
+[2019.03.02-16.07.26:224][205]LogNet: Browse: /Game/EndlessRunner?restart
+[2019.03.02-16.07.26:225][205]LogLoad: LoadMap: /Game/EndlessRunner
+[2019.03.02-16.07.26:257][205]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EndlessRunner
+[2019.03.02-16.07.26:259][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001633s)
+[2019.03.02-16.07.26:259][205]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.02-16.07.26:259][205]LogPlayLevel: PIE: World Init took: (0.000459s)
+[2019.03.02-16.07.26:259][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunner.EndlessRunner to /Game/UEDPIE_0_EndlessRunner.EndlessRunner (0.002219s)
+[2019.03.02-16.07.26:260][205]LogLoad: Game class is 'RunGameMode_C'
+[2019.03.02-16.07.26:261][205]LogWorld: Bringing World /Game/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 60) at 2019.03.02-11.07.26
+[2019.03.02-16.07.26:261][205]LogWorld: Bringing up level for play took: 0.000360
+[2019.03.02-16.07.26:269][205]LogLoad: Took 0.044026 seconds to LoadMap(/Game/UEDPIE_0_EndlessRunner)
+[2019.03.02-16.07.36:860][841]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.07.36:860][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-16.07.36:898][841]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.02-16.07.36:898][841]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.07.36:931][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-16.07.36:965][843]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.03.02-16.07.42:876][169]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.02-16.08.09:366][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.08.24:290][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.08.31:578][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.08.50:067][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.08.50:134][193]BlueprintLog: New page: Compile BP_Floortile
+[2019.03.02-16.08.52:380][316]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.02-16.08.52:394][316]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.08.52:394][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.02-16.08.52:394][316]PIE: New page: PIE session: EndlessRunner (Mar 2, 2019, 6:08:52 AM)
+[2019.03.02-16.08.52:394][316]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EndlessRunner
+[2019.03.02-16.08.52:396][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001765s)
+[2019.03.02-16.08.52:396][316]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.02-16.08.52:396][316]LogPlayLevel: PIE: World Init took: (0.000451s)
+[2019.03.02-16.08.52:396][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunner.EndlessRunner to /Game/UEDPIE_0_EndlessRunner.EndlessRunner (0.002313s)
+[2019.03.02-16.08.52:429][316]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.02-16.08.52:490][316]LogInit: FAudioDevice initialized.
+[2019.03.02-16.08.52:519][316]LogLoad: Game class is 'RunGameMode_C'
+[2019.03.02-16.08.52:520][316]LogWorld: Bringing World /Game/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 60) at 2019.03.02-11.08.52
+[2019.03.02-16.08.52:520][316]LogWorld: Bringing up level for play took: 0.000368
+[2019.03.02-16.08.52:539][316]PIE: Play in editor start time for /Game/UEDPIE_0_EndlessRunner -0.319
+[2019.03.02-16.08.52:539][316]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.09.03:724][986]Cmd: RestartLevel
+[2019.03.02-16.09.03:740][987]LogNet: Browse: /Game/EndlessRunner?restart
+[2019.03.02-16.09.03:740][987]LogLoad: LoadMap: /Game/EndlessRunner
+[2019.03.02-16.09.03:769][987]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EndlessRunner
+[2019.03.02-16.09.03:770][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001742s)
+[2019.03.02-16.09.03:771][987]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.02-16.09.03:771][987]LogPlayLevel: PIE: World Init took: (0.000436s)
+[2019.03.02-16.09.03:771][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunner.EndlessRunner to /Game/UEDPIE_0_EndlessRunner.EndlessRunner (0.002305s)
+[2019.03.02-16.09.03:771][987]LogLoad: Game class is 'RunGameMode_C'
+[2019.03.02-16.09.03:772][987]LogWorld: Bringing World /Game/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 60) at 2019.03.02-11.09.03
+[2019.03.02-16.09.03:772][987]LogWorld: Bringing up level for play took: 0.000341
+[2019.03.02-16.09.03:780][987]LogLoad: Took 0.039945 seconds to LoadMap(/Game/UEDPIE_0_EndlessRunner)
+[2019.03.02-16.09.46:373][543]Cmd: RestartLevel
+[2019.03.02-16.09.46:390][544]LogNet: Browse: /Game/EndlessRunner?restart
+[2019.03.02-16.09.46:391][544]LogLoad: LoadMap: /Game/EndlessRunner
+[2019.03.02-16.09.46:425][544]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EndlessRunner
+[2019.03.02-16.09.46:427][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001736s)
+[2019.03.02-16.09.46:427][544]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.02-16.09.46:427][544]LogPlayLevel: PIE: World Init took: (0.000520s)
+[2019.03.02-16.09.46:427][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunner.EndlessRunner to /Game/UEDPIE_0_EndlessRunner.EndlessRunner (0.002391s)
+[2019.03.02-16.09.46:427][544]LogLoad: Game class is 'RunGameMode_C'
+[2019.03.02-16.09.46:428][544]LogWorld: Bringing World /Game/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 60) at 2019.03.02-11.09.46
+[2019.03.02-16.09.46:428][544]LogWorld: Bringing up level for play took: 0.000354
+[2019.03.02-16.09.46:436][544]LogLoad: Took 0.045709 seconds to LoadMap(/Game/UEDPIE_0_EndlessRunner)
+[2019.03.02-16.09.47:507][609]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.09.47:508][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-16.09.47:542][609]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.02-16.09.47:542][609]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.09.47:576][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-16.09.47:611][611]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.03.02-16.11.41:479][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.11.41:572][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Floortile" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset" SILENT=true
+[2019.03.02-16.11.41:604][285]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_FloortileC75B6EFC461D7EF17B1D5BAC6F940F3C.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset'
+[2019.03.02-16.11.44:126][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EndlessRunner" FILE="../../../../../UnrealProjects/GeofsLab/Content/EndlessRunner.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.02-16.11.44:269][435]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/EndlessRunner45D13B8346B49AF50B4BEBA1FC1E008E.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/EndlessRunner.umap'
+[2019.03.02-16.11.44:284][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EndlessRunner_BuiltData" FILE="../../../../../UnrealProjects/GeofsLab/Content/EndlessRunner_BuiltData.uasset" SILENT=true
+[2019.03.02-16.11.44:296][435]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/EndlessRunner_BuiltDataD4BE31974EEA987B8A5713B087A5EB31.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/EndlessRunner_BuiltData.uasset'
+[2019.03.02-16.11.51:377][800]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.03.02-16.12.02:878][299]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/BP_Item.BP_Item
+[2019.03.02-16.13.44:656][919]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.02-16.15.13:233][309]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.02-16.15.40:968][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.15.41:035][975]BlueprintLog: New page: Compile BP_Item
+[2019.03.02-16.15.45:159][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.16.12:986][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.16.21:567][690]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.02-16.16.31:262][271]BlueprintLog: New page: Compile BP_Item
+[2019.03.02-16.17.02:503][113]PIE: Warning: Mobility of /Engine/Transient.World_9:PersistentLevel.BP_Item_C_5 : DefaultSceneRoot has to be 'Movable' if you'd like to move it with RotatingMovementComponent. 
+[2019.03.02-16.17.11:103][629]PIE: Warning: Mobility of /Engine/Transient.World_9:PersistentLevel.BP_Item_C_7 : DefaultSceneRoot has to be 'Movable' if you'd like to move it with RotatingMovementComponent. 
+[2019.03.02-16.17.14:904][857]BlueprintLog: New page: Compile BP_Item
+[2019.03.02-16.17.15:912][908]PIE: Warning: Mobility of /Engine/Transient.World_9:PersistentLevel.BP_Item_C_9 : DefaultSceneRoot has to be 'Movable' if you'd like to move it with RotatingMovementComponent. 
+[2019.03.02-16.17.23:815][380]PIE: Warning: Mobility of /Engine/Transient.World_9:PersistentLevel.BP_Item_C_11 : DefaultSceneRoot has to be 'Movable' if you'd like to move it with RotatingMovementComponent. 
+[2019.03.02-16.17.29:015][691]Cmd: TRANSACTION UNDO
+[2019.03.02-16.17.29:015][691]LogEditorTransaction: Undo Edit Mobility
+[2019.03.02-16.17.33:160][939]PIE: Warning: Mobility of /Engine/Transient.World_9:PersistentLevel.BP_Item_C_13 : DefaultSceneRoot has to be 'Movable' if you'd like to move it with RotatingMovementComponent. 
+[2019.03.02-16.17.38:264][241]Cmd: TRANSACTION UNDO
+[2019.03.02-16.17.38:264][241]LogEditorTransaction: Undo Edit Mobility
+[2019.03.02-16.17.39:886][337]Cmd: TRANSACTION UNDO
+[2019.03.02-16.17.39:886][337]LogEditorTransaction: Undo Add Component
+[2019.03.02-16.17.42:778][509]BlueprintLog: New page: Compile BP_Item
+[2019.03.02-16.17.53:149][122]BlueprintLog: New page: Compile BP_Item
+[2019.03.02-16.17.53:736][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Item" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Item.uasset" SILENT=true
+[2019.03.02-16.17.53:749][147]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_Item7A0D52CF4F77CE68DE37369696F44EEA.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Item.uasset'
+[2019.03.02-16.18.41:208][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.19.24:794][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.20.02:224][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.20.02:274][948]BlueprintLog: New page: Compile BP_Floortile
+[2019.03.02-16.20.02:920][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Floortile" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset" SILENT=true
+[2019.03.02-16.20.03:189][973]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_Floortile2C28C58C4D29F3DC2D4248B10C4BD72F.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset'
+[2019.03.02-16.20.46:002][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.20.46:080][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Floortile" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset" SILENT=true
+[2019.03.02-16.20.46:111][  8]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_Floortile0803F8A84D7F810DB598859D0FF56231.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset'
+[2019.03.02-16.20.47:683][102]BlueprintLog: New page: Compile BP_Floortile
+[2019.03.02-16.21.26:660][362]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.02-16.21.57:827][906]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/EndlessRunner' took 0.029
+[2019.03.02-16.21.57:831][906]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/BP_Floortile] ([1] browsable assets)...
+[2019.03.02-16.21.57:844][906]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/BP_Floortile.BP_Floortile]
+[2019.03.02-16.21.57:844][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BP_Floortile]
+[2019.03.02-16.21.57:844][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Floortile" FILE="../../../../../UnrealProjects/GeofsLab/Saved/Autosaves/Game/BluePrints/BP_Floortile_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.03.02-16.21.57:878][906]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_Floortile_Auto3CC0408E948C85339052938A83177BC4B.tmp' to '../../../../../UnrealProjects/GeofsLab/Saved/Autosaves/Game/BluePrints/BP_Floortile_Auto3.uasset'
+[2019.03.02-16.21.57:880][906]LogFileHelpers: Auto-saving content packages took 0.050
+[2019.03.02-16.24.15:390][598]BlueprintLog: New page: Compile BP_Floortile
+[2019.03.02-16.24.38:395][955]BlueprintLog: New page: Compile BP_Floortile
+[2019.03.02-16.24.39:047][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Floortile" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset" SILENT=true
+[2019.03.02-16.24.39:082][982]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_FloortileF242AF21486C1779FA87F584E86D08E6.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset'
+[2019.03.02-16.24.47:673][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.24.54:473][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.25.03:239][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.25.03:340][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Floortile" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset" SILENT=true
+[2019.03.02-16.25.03:368][436]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_Floortile73B3F3F84DB7E69A0AF3F49FF1DDE6F8.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset'
+[2019.03.02-16.26.28:028][612]BlueprintLog: New page: Compile BP_Floortile
+[2019.03.02-16.26.28:938][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Floortile" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset" SILENT=true
+[2019.03.02-16.26.28:972][653]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_Floortile3F7386B140D3316A11C53790A6496306.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset'
+[2019.03.02-16.28.54:639][164]BlueprintLog: New page: Compile BP_Floortile
+[2019.03.02-16.28.56:412][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Floortile" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset" SILENT=true
+[2019.03.02-16.28.56:448][257]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_Floortile2A2F5F31454CA6101FF0389FA804ADF4.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset'
+[2019.03.02-16.28.57:549][323]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.02-16.28.57:566][323]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.28.57:566][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.02-16.28.57:566][323]PIE: New page: PIE session: EndlessRunner (Mar 2, 2019, 6:28:57 AM)
+[2019.03.02-16.28.57:566][323]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EndlessRunner
+[2019.03.02-16.28.57:568][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001885s)
+[2019.03.02-16.28.57:568][323]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.02-16.28.57:569][323]LogPlayLevel: PIE: World Init took: (0.000518s)
+[2019.03.02-16.28.57:569][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunner.EndlessRunner to /Game/UEDPIE_0_EndlessRunner.EndlessRunner (0.002512s)
+[2019.03.02-16.28.57:601][323]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.02-16.28.57:667][323]LogInit: FAudioDevice initialized.
+[2019.03.02-16.28.57:701][323]LogLoad: Game class is 'RunGameMode_C'
+[2019.03.02-16.28.57:702][323]LogWorld: Bringing World /Game/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 60) at 2019.03.02-11.28.57
+[2019.03.02-16.28.57:703][323]LogWorld: Bringing up level for play took: 0.000538
+[2019.03.02-16.28.57:728][323]PIE: Play in editor start time for /Game/UEDPIE_0_EndlessRunner 0.87
+[2019.03.02-16.28.57:728][323]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.29.07:905][933]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.29.07:906][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-16.29.07:941][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.02-16.29.07:941][933]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.29.07:972][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-16.29.08:015][936]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.03.02-16.29.08:948][992]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.02-16.29.08:963][992]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.29.08:963][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.02-16.29.08:964][992]PIE: New page: PIE session: EndlessRunner (Mar 2, 2019, 6:29:08 AM)
+[2019.03.02-16.29.08:964][992]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EndlessRunner
+[2019.03.02-16.29.08:965][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001755s)
+[2019.03.02-16.29.08:966][992]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.02-16.29.08:966][992]LogPlayLevel: PIE: World Init took: (0.000455s)
+[2019.03.02-16.29.08:966][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunner.EndlessRunner to /Game/UEDPIE_0_EndlessRunner.EndlessRunner (0.002300s)
+[2019.03.02-16.29.08:999][992]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.02-16.29.09:064][992]LogInit: FAudioDevice initialized.
+[2019.03.02-16.29.09:095][992]LogLoad: Game class is 'RunGameMode_C'
+[2019.03.02-16.29.09:095][992]LogWorld: Bringing World /Game/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 60) at 2019.03.02-11.29.09
+[2019.03.02-16.29.09:095][992]LogWorld: Bringing up level for play took: 0.000363
+[2019.03.02-16.29.09:120][992]PIE: Play in editor start time for /Game/UEDPIE_0_EndlessRunner 0.261
+[2019.03.02-16.29.09:120][992]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.29.12:331][181]Cmd: RestartLevel
+[2019.03.02-16.29.12:347][182]LogNet: Browse: /Game/EndlessRunner?restart
+[2019.03.02-16.29.12:348][182]LogLoad: LoadMap: /Game/EndlessRunner
+[2019.03.02-16.29.12:379][182]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EndlessRunner
+[2019.03.02-16.29.12:381][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001705s)
+[2019.03.02-16.29.12:382][182]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.02-16.29.12:382][182]LogPlayLevel: PIE: World Init took: (0.000454s)
+[2019.03.02-16.29.12:382][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunner.EndlessRunner to /Game/UEDPIE_0_EndlessRunner.EndlessRunner (0.002292s)
+[2019.03.02-16.29.12:382][182]LogLoad: Game class is 'RunGameMode_C'
+[2019.03.02-16.29.12:383][182]LogWorld: Bringing World /Game/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 60) at 2019.03.02-11.29.12
+[2019.03.02-16.29.12:383][182]LogWorld: Bringing up level for play took: 0.000344
+[2019.03.02-16.29.12:396][182]LogLoad: Took 0.047988 seconds to LoadMap(/Game/UEDPIE_0_EndlessRunner)
+[2019.03.02-16.29.40:238][850]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.29.40:238][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-16.29.40:277][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.02-16.29.40:278][850]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.29.40:310][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-16.29.40:341][852]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.03.02-16.30.59:495][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.31.30:446][913]LogSlate: Took 0.009628 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.03.02-16.31.48:668][568]LogSlate: Window 'BP_Item' being destroyed
+[2019.03.02-16.31.48:671][568]LogSlate: Window 'BP_Item' being destroyed
+[2019.03.02-16.31.49:019][568]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.02-16.31.49:074][568]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.02-16.31.49:129][568]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.02-16.31.53:581][755]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/BP_Floortile.BP_Floortile
+[2019.03.02-16.32.06:232][498]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/RunCharacter.RunCharacter
+[2019.03.02-16.33.04:951][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunCharacter" FILE="../../../../../UnrealProjects/GeofsLab/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset" SILENT=true
+[2019.03.02-16.33.05:273][392]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/RunCharacter76B4E92B4CB96342BCBB2F8E80A8A348.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2019.03.02-16.33.05:775][422]BlueprintLog: New page: Compile RunCharacter
+[2019.03.02-16.33.16:531][ 51]LogMetaData: Removing '/Game/BluePrints/RunCharacter.RunCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunCharacter.PackageMetaData'
+[2019.03.02-16.33.16:531][ 51]LogMetaData: Removing '/Game/BluePrints/RunCharacter.SKEL_RunCharacter_C:FollowCamera' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunCharacter.PackageMetaData'
+[2019.03.02-16.33.16:531][ 51]LogMetaData: Removing '/Game/BluePrints/RunCharacter.SKEL_RunCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunCharacter.PackageMetaData'
+[2019.03.02-16.33.16:531][ 51]LogMetaData: Removing '/Game/BluePrints/RunCharacter.RunCharacter:AddCoin.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunCharacter.PackageMetaData'
+[2019.03.02-16.33.16:531][ 51]LogMetaData: Removing '/Game/BluePrints/RunCharacter.SKEL_RunCharacter_C:CameraBoom' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunCharacter.PackageMetaData'
+[2019.03.02-16.33.16:531][ 51]LogMetaData: Removing '/Game/BluePrints/RunCharacter.SKEL_RunCharacter_C:BaseTurnRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunCharacter.PackageMetaData'
+[2019.03.02-16.33.16:531][ 51]LogMetaData: Removing '/Game/BluePrints/RunCharacter.SKEL_RunCharacter_C:BaseLookUpRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunCharacter.PackageMetaData'
+[2019.03.02-16.33.16:531][ 51]LogMetaData: Removing '/Game/BluePrints/RunCharacter.SKEL_RunCharacter_C:CanTurn' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunCharacter.PackageMetaData'
+[2019.03.02-16.33.16:531][ 51]LogMetaData: Removing '/Game/BluePrints/RunCharacter.SKEL_RunCharacter_C:DesiredRotation' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunCharacter.PackageMetaData'
+[2019.03.02-16.33.16:531][ 51]LogMetaData: Removing '/Game/BluePrints/RunCharacter.SKEL_RunCharacter_C:IsDead' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunCharacter.PackageMetaData'
+[2019.03.02-16.33.16:531][ 51]LogMetaData: Removing '/Game/BluePrints/RunCharacter.SKEL_RunCharacter_C:TotalCoins' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunCharacter.PackageMetaData'
+[2019.03.02-16.33.16:532][ 51]LogMetaData: Removing '/Game/BluePrints/RunCharacter.SKEL_RunCharacter_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunCharacter.PackageMetaData'
+[2019.03.02-16.33.16:532][ 51]LogMetaData: Removing '/Game/BluePrints/RunCharacter.SKEL_RunCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunCharacter.PackageMetaData'
+[2019.03.02-16.33.16:532][ 51]LogMetaData: Removing '/Game/BluePrints/RunCharacter.SKEL_RunCharacter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunCharacter.PackageMetaData'
+[2019.03.02-16.33.16:532][ 51]LogMetaData: Removing '/Game/BluePrints/RunCharacter.RunCharacter_C:TotalCoins' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunCharacter.PackageMetaData'
+[2019.03.02-16.33.16:532][ 51]LogMetaData: Removing '/Game/BluePrints/RunCharacter.RunCharacter_C:IsDead' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunCharacter.PackageMetaData'
+[2019.03.02-16.33.16:532][ 51]LogMetaData: Removing '/Game/BluePrints/RunCharacter.RunCharacter_C:DesiredRotation' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunCharacter.PackageMetaData'
+[2019.03.02-16.33.16:532][ 51]LogMetaData: Removing '/Game/BluePrints/RunCharacter.RunCharacter_C:CanTurn' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunCharacter.PackageMetaData'
+[2019.03.02-16.33.16:532][ 51]LogMetaData: Removing '/Game/BluePrints/RunCharacter.RunCharacter_C:BaseLookUpRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunCharacter.PackageMetaData'
+[2019.03.02-16.33.16:532][ 51]LogMetaData: Removing '/Game/BluePrints/RunCharacter.RunCharacter_C:BaseTurnRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunCharacter.PackageMetaData'
+[2019.03.02-16.33.16:532][ 51]LogMetaData: Removing '/Game/BluePrints/RunCharacter.RunCharacter_C:CameraBoom' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunCharacter.PackageMetaData'
+[2019.03.02-16.33.16:532][ 51]LogMetaData: Removing '/Game/BluePrints/RunCharacter.RunCharacter_C:FollowCamera' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunCharacter.PackageMetaData'
+[2019.03.02-16.33.16:532][ 51]LogMetaData: Removing '/Game/BluePrints/RunCharacter.RunCharacter_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunCharacter.PackageMetaData'
+[2019.03.02-16.33.16:532][ 51]LogMetaData: Removing '/Game/BluePrints/RunCharacter.RunCharacter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunCharacter.PackageMetaData'
+[2019.03.02-16.33.16:563][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/RunCharacter" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/RunCharacter.uasset" SILENT=true
+[2019.03.02-16.33.16:602][ 51]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/RunCharacter7BA17A70401F0AD3EDC367A74E0911DA.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/RunCharacter.uasset'
+[2019.03.02-16.33.16:606][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunCharacter" FILE="../../../../../UnrealProjects/GeofsLab/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset" SILENT=true
+[2019.03.02-16.33.16:609][ 51]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/RunCharacter0A72DA7E4215D81D8E7869A30CB1C9D5.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2019.03.02-16.33.29:555][826]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/BP_Item.BP_Item
+[2019.03.02-16.34.48:106][230]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/EndlessRunner' took 0.030
+[2019.03.02-16.34.48:143][230]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/RunGameMode] ([1] browsable assets)...
+[2019.03.02-16.34.48:143][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/RunGameMode]
+[2019.03.02-16.34.48:152][230]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/RunGameMode_Auto46591DFC548B3B21F857D459AA528260E.tmp' to '../../../../../UnrealProjects/GeofsLab/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/RunGameMode_Auto4.uasset'
+[2019.03.02-16.34.48:171][230]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/BP_Floortile] ([1] browsable assets)...
+[2019.03.02-16.34.48:180][230]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/BP_Floortile.BP_Floortile]
+[2019.03.02-16.34.48:180][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BP_Floortile]
+[2019.03.02-16.34.48:180][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Floortile" FILE="../../../../../UnrealProjects/GeofsLab/Saved/Autosaves/Game/BluePrints/BP_Floortile_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.03.02-16.34.48:237][230]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_Floortile_Auto4811BD67B4B009148AE7037B4E0BA2909.tmp' to '../../../../../UnrealProjects/GeofsLab/Saved/Autosaves/Game/BluePrints/BP_Floortile_Auto4.uasset'
+[2019.03.02-16.34.48:238][230]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/BP_Blocker] ([1] browsable assets)...
+[2019.03.02-16.34.48:247][230]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/BP_Blocker.BP_Blocker]
+[2019.03.02-16.34.48:247][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BP_Blocker]
+[2019.03.02-16.34.48:247][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Blocker" FILE="../../../../../UnrealProjects/GeofsLab/Saved/Autosaves/Game/BluePrints/BP_Blocker_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.03.02-16.34.48:264][230]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_Blocker_Auto4C69DFB074BA6BC484BB2E4813D228FB1.tmp' to '../../../../../UnrealProjects/GeofsLab/Saved/Autosaves/Game/BluePrints/BP_Blocker_Auto4.uasset'
+[2019.03.02-16.34.48:265][230]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/BP_Item] ([1] browsable assets)...
+[2019.03.02-16.34.48:274][230]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/BP_Item.BP_Item]
+[2019.03.02-16.34.48:274][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BP_Item]
+[2019.03.02-16.34.48:274][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Item" FILE="../../../../../UnrealProjects/GeofsLab/Saved/Autosaves/Game/BluePrints/BP_Item_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.03.02-16.34.48:289][230]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_Item_Auto4E9E8A1FC4E52093E06B90187CF1EF79E.tmp' to '../../../../../UnrealProjects/GeofsLab/Saved/Autosaves/Game/BluePrints/BP_Item_Auto4.uasset'
+[2019.03.02-16.34.48:290][230]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/RunCharacter] ([1] browsable assets)...
+[2019.03.02-16.34.48:290][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/RunCharacter]
+[2019.03.02-16.34.48:290][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/RunCharacter" FILE="../../../../../UnrealProjects/GeofsLab/Saved/Autosaves/Game/BluePrints/RunCharacter_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.03.02-16.34.48:321][230]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/RunCharacter_Auto414EAB48A4C98E2CFF79429BDFCE43683.tmp' to '../../../../../UnrealProjects/GeofsLab/Saved/Autosaves/Game/BluePrints/RunCharacter_Auto4.uasset'
+[2019.03.02-16.34.48:322][230]LogFileHelpers: Auto-saving content packages took 0.215
+[2019.03.02-16.35.03:665][146]BlueprintLog: New page: Compile BP_Item
+[2019.03.02-16.36.13:628][854]BlueprintLog: New page: Compile BP_Item
+[2019.03.02-16.36.14:696][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Item" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Item.uasset" SILENT=true
+[2019.03.02-16.36.14:713][908]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_ItemAA8EC9354D4C4A27438A209F5017A0FD.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Item.uasset'
+[2019.03.02-16.36.17:079][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Floortile" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset" SILENT=true
+[2019.03.02-16.36.17:108][ 48]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_Floortile9790A7A34F18989E881010B03BB84751.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset'
+[2019.03.02-16.36.19:161][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/RunCharacter" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/RunCharacter.uasset" SILENT=true
+[2019.03.02-16.36.19:193][170]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/RunCharacter07EB0EBD46F6A54D8716728531C0E694.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/RunCharacter.uasset'
+[2019.03.02-16.36.21:594][314]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.02-16.36.21:608][314]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.36.21:608][314]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.02-16.36.21:611][314]LogPlayLevel: [PlayLevel] Compiling RunGameMode before play...
+[2019.03.02-16.36.21:640][314]LogPlayLevel: [PlayLevel] Compiling BP_Floortile before play...
+[2019.03.02-16.36.21:776][314]LogPlayLevel: [PlayLevel] Compiling BP_Blocker before play...
+[2019.03.02-16.36.21:911][314]LogPlayLevel: PlayLevel: Blueprint regeneration took 302 ms (3 blueprints)
+[2019.03.02-16.36.21:911][314]PIE: New page: PIE session: EndlessRunner (Mar 2, 2019, 6:36:21 AM)
+[2019.03.02-16.36.21:911][314]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EndlessRunner
+[2019.03.02-16.36.21:913][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001844s)
+[2019.03.02-16.36.21:913][314]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.02-16.36.21:913][314]LogPlayLevel: PIE: World Init took: (0.000480s)
+[2019.03.02-16.36.21:913][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunner.EndlessRunner to /Game/UEDPIE_0_EndlessRunner.EndlessRunner (0.002418s)
+[2019.03.02-16.36.21:948][314]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.02-16.36.22:014][314]LogInit: FAudioDevice initialized.
+[2019.03.02-16.36.22:047][314]LogLoad: Game class is 'RunGameMode_C'
+[2019.03.02-16.36.22:048][314]LogWorld: Bringing World /Game/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 60) at 2019.03.02-11.36.22
+[2019.03.02-16.36.22:048][314]LogWorld: Bringing up level for play took: 0.000388
+[2019.03.02-16.36.22:072][314]PIE: Play in editor start time for /Game/UEDPIE_0_EndlessRunner 1.214
+[2019.03.02-16.36.22:073][314]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.36.27:735][653]Cmd: RestartLevel
+[2019.03.02-16.36.27:751][654]LogNet: Browse: /Game/EndlessRunner?restart
+[2019.03.02-16.36.27:751][654]LogLoad: LoadMap: /Game/EndlessRunner
+[2019.03.02-16.36.27:783][654]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EndlessRunner
+[2019.03.02-16.36.27:785][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001702s)
+[2019.03.02-16.36.27:785][654]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.02-16.36.27:785][654]LogPlayLevel: PIE: World Init took: (0.000426s)
+[2019.03.02-16.36.27:785][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunner.EndlessRunner to /Game/UEDPIE_0_EndlessRunner.EndlessRunner (0.002251s)
+[2019.03.02-16.36.27:785][654]LogLoad: Game class is 'RunGameMode_C'
+[2019.03.02-16.36.27:787][654]LogWorld: Bringing World /Game/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 60) at 2019.03.02-11.36.27
+[2019.03.02-16.36.27:787][654]LogWorld: Bringing up level for play took: 0.000356
+[2019.03.02-16.36.27:800][654]LogLoad: Took 0.048823 seconds to LoadMap(/Game/UEDPIE_0_EndlessRunner)
+[2019.03.02-16.36.41:099][452]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.36.41:099][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-16.36.41:139][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.02-16.36.41:139][452]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.36.41:172][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-16.36.41:202][454]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.03.02-16.36.42:119][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.36.42:168][512]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.02-16.36.42:182][512]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.36.42:182][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.02-16.36.42:182][512]PIE: New page: PIE session: EndlessRunner (Mar 2, 2019, 6:36:42 AM)
+[2019.03.02-16.36.42:182][512]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EndlessRunner
+[2019.03.02-16.36.42:184][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001658s)
+[2019.03.02-16.36.42:184][512]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.02-16.36.42:185][512]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2019.03.02-16.36.42:185][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunner.EndlessRunner to /Game/UEDPIE_0_EndlessRunner.EndlessRunner (0.002315s)
+[2019.03.02-16.36.42:218][512]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.02-16.36.42:281][512]LogInit: FAudioDevice initialized.
+[2019.03.02-16.36.42:310][512]LogLoad: Game class is 'RunGameMode_C'
+[2019.03.02-16.36.42:312][512]LogWorld: Bringing World /Game/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 60) at 2019.03.02-11.36.42
+[2019.03.02-16.36.42:312][512]LogWorld: Bringing up level for play took: 0.000414
+[2019.03.02-16.36.42:335][512]PIE: Play in editor start time for /Game/UEDPIE_0_EndlessRunner -0.524
+[2019.03.02-16.36.42:335][512]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.36.43:439][578]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.36.43:439][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-16.36.43:475][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.02-16.36.43:475][578]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.36.43:505][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-16.36.43:547][581]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.03.02-16.36.43:981][607]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.02-16.36.43:994][607]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.36.43:995][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.02-16.36.43:995][607]PIE: New page: PIE session: EndlessRunner (Mar 2, 2019, 6:36:43 AM)
+[2019.03.02-16.36.43:995][607]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EndlessRunner
+[2019.03.02-16.36.43:996][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001671s)
+[2019.03.02-16.36.43:997][607]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.02-16.36.43:997][607]LogPlayLevel: PIE: World Init took: (0.000450s)
+[2019.03.02-16.36.43:997][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunner.EndlessRunner to /Game/UEDPIE_0_EndlessRunner.EndlessRunner (0.002216s)
+[2019.03.02-16.36.44:029][607]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.02-16.36.44:093][607]LogInit: FAudioDevice initialized.
+[2019.03.02-16.36.44:122][607]LogLoad: Game class is 'RunGameMode_C'
+[2019.03.02-16.36.44:123][607]LogWorld: Bringing World /Game/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 60) at 2019.03.02-11.36.44
+[2019.03.02-16.36.44:123][607]LogWorld: Bringing up level for play took: 0.000371
+[2019.03.02-16.36.44:148][607]PIE: Play in editor start time for /Game/UEDPIE_0_EndlessRunner -0.711
+[2019.03.02-16.36.44:148][607]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.36.50:415][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.36.50:482][974]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.36.50:482][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-16.36.50:520][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.02-16.36.50:520][974]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.36.50:554][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-16.36.50:595][977]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.03.02-16.38.29:368][989]LogMetaData: Removing '/Game/UMG/RunHUD.SKEL_RunHUD_C' ref from Metadata '/Game/UMG/NewWidgetBlueprint.PackageMetaData'
+[2019.03.02-16.38.29:368][989]LogMetaData: Removing '/Game/UMG/RunHUD.RunHUD_C' ref from Metadata '/Game/UMG/NewWidgetBlueprint.PackageMetaData'
+[2019.03.02-16.38.29:368][989]LogMetaData: Removing '/Game/UMG/RunHUD.RunHUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UMG/NewWidgetBlueprint.PackageMetaData'
+[2019.03.02-16.38.29:368][989]LogMetaData: Removing '/Game/UMG/RunHUD.RunHUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UMG/NewWidgetBlueprint.PackageMetaData'
+[2019.03.02-16.38.29:368][989]LogMetaData: Removing '/Game/UMG/RunHUD.RunHUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UMG/NewWidgetBlueprint.PackageMetaData'
+[2019.03.02-16.38.29:401][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/RunHUD" FILE="../../../../../UnrealProjects/GeofsLab/Content/UMG/RunHUD.uasset" SILENT=true
+[2019.03.02-16.38.29:406][989]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/RunHUD5C4392A94F43B63611F5B5BCAA0D3B7E.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/UMG/RunHUD.uasset'
+[2019.03.02-16.38.40:146][350]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UMG/RunHUD.RunHUD
+[2019.03.02-16.39.11:332][ 94]LogSlate: Took 0.088168 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2019.03.02-16.40.32:491][726]LogSlate: Took 0.093018 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.03.02-16.41.13:868][339]BlueprintLog: New page: Compile RunHUD
+[2019.03.02-16.41.14:783][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/RunHUD" FILE="../../../../../UnrealProjects/GeofsLab/Content/UMG/RunHUD.uasset" SILENT=true
+[2019.03.02-16.41.15:070][388]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/RunHUDBF40546C430234D3565520A3BF17720E.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/UMG/RunHUD.uasset'
+[2019.03.02-16.43.00:567][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/RunHUD" FILE="../../../../../UnrealProjects/GeofsLab/Content/UMG/RunHUD.uasset" SILENT=true
+[2019.03.02-16.43.00:573][136]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/RunHUD242B6031490FBBAC0E3E2DB7898E7B77.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/UMG/RunHUD.uasset'
+[2019.03.02-16.43.01:563][195]BlueprintLog: New page: Compile RunHUD
+[2019.03.02-16.45.03:290][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/RunHUD" FILE="../../../../../UnrealProjects/GeofsLab/Content/UMG/RunHUD.uasset" SILENT=true
+[2019.03.02-16.45.03:299][669]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/RunHUD2E802CCC4C92E2D1B65F30B1D1D09CD2.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/UMG/RunHUD.uasset'
+[2019.03.02-16.45.03:755][696]BlueprintLog: New page: Compile RunHUD
+[2019.03.02-16.45.31:128][163]LogMetaData: Removing '/Game/BluePrints/RunGameMode.RunGameMode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunGameMode.PackageMetaData'
+[2019.03.02-16.45.31:128][163]LogMetaData: Removing '/Game/BluePrints/RunGameMode.RunGameMode:AddFloorTile.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunGameMode.PackageMetaData'
+[2019.03.02-16.45.31:128][163]LogMetaData: Removing '/Game/BluePrints/RunGameMode.SKEL_RunGameMode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunGameMode.PackageMetaData'
+[2019.03.02-16.45.31:128][163]LogMetaData: Removing '/Game/BluePrints/RunGameMode.SKEL_RunGameMode_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunGameMode.PackageMetaData'
+[2019.03.02-16.45.31:128][163]LogMetaData: Removing '/Game/BluePrints/RunGameMode.SKEL_RunGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunGameMode.PackageMetaData'
+[2019.03.02-16.45.31:128][163]LogMetaData: Removing '/Game/BluePrints/RunGameMode.SKEL_RunGameMode_C:NextSpawnPoint' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunGameMode.PackageMetaData'
+[2019.03.02-16.45.31:128][163]LogMetaData: Removing '/Game/BluePrints/RunGameMode.SKEL_RunGameMode_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunGameMode.PackageMetaData'
+[2019.03.02-16.45.31:128][163]LogMetaData: Removing '/Game/BluePrints/RunGameMode.RunGameMode_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunGameMode.PackageMetaData'
+[2019.03.02-16.45.31:129][163]LogMetaData: Removing '/Game/BluePrints/RunGameMode.RunGameMode_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunGameMode.PackageMetaData'
+[2019.03.02-16.45.31:129][163]LogMetaData: Removing '/Game/BluePrints/RunGameMode.RunGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunGameMode.PackageMetaData'
+[2019.03.02-16.45.31:129][163]LogMetaData: Removing '/Game/BluePrints/RunGameMode.RunGameMode_C:NextSpawnPoint' ref from Metadata '/Game/ThirdPersonBP/Blueprints/RunGameMode.PackageMetaData'
+[2019.03.02-16.45.31:153][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/RunGameMode" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/RunGameMode.uasset" SILENT=true
+[2019.03.02-16.45.31:161][163]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/RunGameMode32003CF74E7BC1AAF4F6868630033D05.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/RunGameMode.uasset'
+[2019.03.02-16.45.31:166][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="../../../../../UnrealProjects/GeofsLab/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2019.03.02-16.45.31:168][163]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/RunGameMode57B2A70A4C91402AFAC60294020F4C46.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2019.03.02-16.45.36:049][454]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/RunGameMode.RunGameMode
+[2019.03.02-16.46.13:023][ 92]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.02-16.47.12:223][ 90]BlueprintLog: New page: Compile RunGameMode
+[2019.03.02-16.47.12:783][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/RunGameMode" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/RunGameMode.uasset" SILENT=true
+[2019.03.02-16.47.12:794][112]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/RunGameMode3508421A474A90938AAD4887BFBD4135.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/RunGameMode.uasset'
+[2019.03.02-16.47.14:576][218]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.02-16.47.14:598][218]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.47.14:598][218]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.02-16.47.14:608][218]LogPlayLevel: [PlayLevel] Compiling BP_Floortile before play...
+[2019.03.02-16.47.14:753][218]LogPlayLevel: [PlayLevel] Compiling BP_Blocker before play...
+[2019.03.02-16.47.14:890][218]LogPlayLevel: PlayLevel: Blueprint regeneration took 292 ms (2 blueprints)
+[2019.03.02-16.47.14:890][218]PIE: New page: PIE session: EndlessRunner (Mar 2, 2019, 6:47:14 AM)
+[2019.03.02-16.47.14:890][218]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EndlessRunner
+[2019.03.02-16.47.14:892][218]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001833s)
+[2019.03.02-16.47.14:892][218]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.02-16.47.14:892][218]LogPlayLevel: PIE: World Init took: (0.000507s)
+[2019.03.02-16.47.14:893][218]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunner.EndlessRunner to /Game/UEDPIE_0_EndlessRunner.EndlessRunner (0.002433s)
+[2019.03.02-16.47.14:929][218]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.02-16.47.14:993][218]LogInit: FAudioDevice initialized.
+[2019.03.02-16.47.15:023][218]LogLoad: Game class is 'RunGameMode_C'
+[2019.03.02-16.47.15:024][218]LogWorld: Bringing World /Game/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 60) at 2019.03.02-11.47.15
+[2019.03.02-16.47.15:024][218]LogWorld: Bringing up level for play took: 0.000369
+[2019.03.02-16.47.15:081][218]PIE: Play in editor start time for /Game/UEDPIE_0_EndlessRunner 0.222
+[2019.03.02-16.47.15:081][218]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.47.54:289][568]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.47.54:289][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-16.47.54:326][568]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.02-16.47.54:326][568]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.47.54:363][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-16.47.54:392][569]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.03.02-16.47.57:876][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.48.08:359][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.48.30:664][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.48.30:748][733]BlueprintLog: New page: Compile BP_Floortile
+[2019.03.02-16.48.31:465][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Floortile" FILE="../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset" SILENT=true
+[2019.03.02-16.48.31:512][761]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/BP_Floortile3745B6644910A00BD8FAD581051A32E7.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/BluePrints/BP_Floortile.uasset'
+[2019.03.02-16.49.23:603][420]BlueprintLog: New page: Compile RunHUD
+[2019.03.02-16.49.24:196][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/RunHUD" FILE="../../../../../UnrealProjects/GeofsLab/Content/UMG/RunHUD.uasset" SILENT=true
+[2019.03.02-16.49.24:207][450]LogSavePackage: Moving '../../../../../UnrealProjects/GeofsLab/Saved/RunHUD33066C104B45C2FCAD9FF7974072B94F.tmp' to '../../../../../UnrealProjects/GeofsLab/Content/UMG/RunHUD.uasset'
+[2019.03.02-16.49.26:027][559]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.02-16.49.26:049][559]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.49.26:049][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.02-16.49.26:049][559]PIE: New page: PIE session: EndlessRunner (Mar 2, 2019, 6:49:26 AM)
+[2019.03.02-16.49.26:049][559]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EndlessRunner
+[2019.03.02-16.49.26:051][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001868s)
+[2019.03.02-16.49.26:052][559]LogAIModule: Creating AISystem for world EndlessRunner
+[2019.03.02-16.49.26:052][559]LogPlayLevel: PIE: World Init took: (0.000540s)
+[2019.03.02-16.49.26:052][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunner.EndlessRunner to /Game/UEDPIE_0_EndlessRunner.EndlessRunner (0.002505s)
+[2019.03.02-16.49.26:088][559]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.03.02-16.49.26:152][559]LogInit: FAudioDevice initialized.
+[2019.03.02-16.49.26:185][559]LogLoad: Game class is 'RunGameMode_C'
+[2019.03.02-16.49.26:186][559]LogWorld: Bringing World /Game/UEDPIE_0_EndlessRunner.EndlessRunner up for play (max tick rate 60) at 2019.03.02-11.49.26
+[2019.03.02-16.49.26:186][559]LogWorld: Bringing up level for play took: 0.000385
+[2019.03.02-16.49.26:212][559]PIE: Play in editor start time for /Game/UEDPIE_0_EndlessRunner -0.647
+[2019.03.02-16.49.26:212][559]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.49.44:987][685]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.49.44:987][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-16.49.45:027][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.02-16.49.45:027][685]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EndlessRunner.EndlessRunner:PersistentLevel' has LevelScriptBlueprint '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner' with GeneratedClass '/Game/EndlessRunner.EndlessRunner_C' with ClassGeneratedBy '/Game/EndlessRunner.EndlessRunner:PersistentLevel.EndlessRunner'
+[2019.03.02-16.49.45:063][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.02-16.49.45:090][686]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.03.02-16.49.46:608][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.50.05:525][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.02-16.50.05:608][916]BlueprintLog: New page: Compile BP_Item
+[2019.03.02-16.50.05:759][916]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_309.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.03.02-16.50.05:759][916]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.03.02-16.51.13:962][916]LogStats: FPlatformStackWalk::StackWalkAndDump - 68.202 s
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: === Handled ensure: ===
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: 
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: Ensure condition failed: Obj != nullptr [File:D:\Build\++UE4\Sync\Engine\Source\Editor\PropertyEditor\Private\PropertyChangeListener.cpp] [Line: 246]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: 
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: Stack: 
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007ffed800b5c5 UE4Editor-PropertyEditor.dll!FPropertyChangeListener::ScanForChanges() [d:\build\++ue4\sync\engine\source\editor\propertyeditor\private\propertychangelistener.cpp:246]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007ffed4a5188d UE4Editor-Sequencer.dll!FSequencerObjectChangeListener::OnObjectPostEditChange() [d:\build\++ue4\sync\engine\source\editor\sequencer\private\sequencerobjectchangelistener.cpp:392]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007ffed4a1131e UE4Editor-Sequencer.dll!TBaseRawMethodDelegateInstance<0,FSequencerObjectChangeListener,void __cdecl(UObject * __ptr64,FPropertyChangedEvent & __ptr64)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:518]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007fff00e61310 UE4Editor-CoreUObject.dll!UObject::PostEditChangeProperty() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\obj.cpp:340]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007ffedc17041d UE4Editor-Engine.dll!AActor::PostEditChangeProperty() [d:\build\++ue4\sync\engine\source\runtime\engine\private\actoreditor.cpp:137]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007fff00e6022a UE4Editor-CoreUObject.dll!UObject::PostEditChange() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\obj.cpp:335]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007ffedb04e70c UE4Editor-UnrealEd.dll!FBlueprintEditorUtils::PostEditChangeBlueprintActors() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\kismet2\blueprinteditorutils.cpp:7952]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007ffed983d082 UE4Editor-Kismet.dll!FBlueprintEditor::OnBlueprintChangedImpl() [d:\build\++ue4\sync\engine\source\editor\kismet\private\blueprinteditor.cpp:3170]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007ffed9820719 UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,FBlueprintEditor,0,void __cdecl(UBlueprint * __ptr64)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:355]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007ffedc081df3 UE4Editor-Engine.dll!TBaseMulticastDelegate<void,UBlueprint * __ptr64>::Broadcast() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:974]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007ffed96f9929 UE4Editor-Kismet.dll!FBlueprintCompilationManagerImpl::CompileSynchronouslyImpl() [d:\build\++ue4\sync\engine\source\editor\kismet\private\blueprintcompilationmanager.cpp:240]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007ffedb0a3dcc UE4Editor-UnrealEd.dll!FKismetEditorUtilities::CompileBlueprint() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\kismet2\kismet2.cpp:766]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007ffed9802c0f UE4Editor-Kismet.dll!FBlueprintEditor::Compile() [d:\build\++ue4\sync\engine\source\editor\kismet\private\blueprinteditor.cpp:3256]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007ffed9820fe8 UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,FBlueprintEditor,0,void __cdecl(void)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:355]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007ffedfdf226e UE4Editor-Slate.dll!FUICommandList::ExecuteAction() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\commands\uicommandlist.cpp:97]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007ffedfef82a2 UE4Editor-Slate.dll!SToolBarButtonBlock::OnClicked() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\multibox\stoolbarbuttonblock.cpp:300]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007ffedfed309f UE4Editor-Slate.dll!TBaseSPMethodDelegateInstance<0,SToolBarButtonBlock,0,FReply __cdecl(void)>::Execute() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:279]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007ffedffbc7bb UE4Editor-Slate.dll!SButton::OnMouseButtonUp() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\input\sbutton.cpp:290]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007ffedfda8e25 UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FToLeafmostPolicy,FPointerEvent,<lambda_1002768c627006711ef2f351a87ec0e7> >() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:270]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007ffedfe42678 UE4Editor-Slate.dll!FSlateApplication::RoutePointerUpEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5528]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007ffedfe2857a UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonUpEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6087]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007ffedfe1b44c UE4Editor-Slate.dll!FSlateApplication::OnMouseUp() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6060]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007fff3217de26 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1831]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007fff32170de0 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2281]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007fff321801eb UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:929]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007fff3216ca19 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:766]
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007fff679eca66 USER32.dll!UnknownFunction []
+[2019.03.02-16.51.13:962][916]LogOutputDevice: Error: [Callstack] 0x00007fff679ec582 USER32.dll!UnknownFunction []
+[2019.03.02-16.51.13:963][916]LogOutputDevice: Error: [Callstack] 0x00007fff32181746 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:130]
+[2019.03.02-16.51.13:963][916]LogOutputDevice: Error: [Callstack] 0x00007ff65ef75546 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3615]
+[2019.03.02-16.51.13:963][916]LogOutputDevice: Error: [Callstack] 0x00007ff65ef8596c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:174]
+[2019.03.02-16.51.13:963][916]LogOutputDevice: Error: [Callstack] 0x00007ff65ef859ea UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:145]
+[2019.03.02-16.51.13:963][916]LogOutputDevice: Error: [Callstack] 0x00007ff65ef948da UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:276]
+[2019.03.02-16.51.13:963][916]LogOutputDevice: Error: [Callstack] 0x00007ff65ef9659a UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:283]
+[2019.03.02-16.51.13:963][916]LogOutputDevice: Error: [Callstack] 0x00007fff66de81f4 KERNEL32.DLL!UnknownFunction []
+[2019.03.02-16.51.13:963][916]LogOutputDevice: Error: [Callstack] 0x00007fff696fa251 ntdll.dll!UnknownFunction []
+[2019.03.02-16.51.13:963][916]LogOutputDevice: Error: 
+[2019.03.02-16.51.13:964][916]LogStats:                SubmitErrorReport -  0.000 s
+[2019.03.02-16.51.18:354][916]LogStats:                    SendNewReport -  4.391 s
+[2019.03.02-16.51.18:354][916]LogStats:             FDebug::EnsureFailed - 72.595 s
+[2019.03.02-16.51.18:354][916]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_308.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.03.02-16.51.18:354][916]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_Item_C_CHILDACTOR_307.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
